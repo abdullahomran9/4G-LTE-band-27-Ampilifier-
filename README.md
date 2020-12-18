@@ -5,7 +5,8 @@ I will share my progress here.
 
 # Block Digram 
 This is a simplified block diagram to explain the basic conscept behinf the amplifier . 
-![](https://cdn.hackaday.io/files/1714857336814240/Block Diagram.JPG)
+
+![](https://cdn.hackaday.io/files/1714857336814240/Block%20Diagram.JPG)
 
 # DETAILS
 Just finished the first version of the Schematics and PCB design . 
